@@ -1,8 +1,8 @@
 ## Hi, I'm Abhishek 👋
 
-💻 Cloud Software Engineer focused on Azure, platform engineering, and infrastructure automation.
+💻 Senior Software Engineer focused on Dotnet, Django, Azure, platform engineering, and infrastructure automation.
 
-🚀 Specialising in Internal Developer Platforms, Infrastructure as Code, and CI/CD — building reusable modules and golden paths that help engineering teams ship faster.
+🚀 Specialising in Software Engineering, Internal Developer Platforms, Infrastructure as Code, and CI/CD, building reusable modules and golden paths that help engineering teams ship faster.
 
 🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/im-abhiiiiiii/)
 
